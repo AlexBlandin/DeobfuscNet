@@ -19,5 +19,7 @@ Trainable params: 225,050
 Non-trainable params: 256
 _________________________________________________________________
 
-Training time (total): 1378.6sTraining time (avg): 27.6sAccuracy (total): 80.65%
+Training time (total): 1378.6s
+Training time (avg): 27.6s
+Accuracy (total): 80.65%
 Per category: 77%, 76%, 84%, 88%, 87%, 76%, 85%, 78%, 69%, 79%, 79%, 76%, 100%, 79%, 78%, 77%, 88%, 79%, 85%, 82%, 75%, 71%, 86%, 83%, 79%, 83%
