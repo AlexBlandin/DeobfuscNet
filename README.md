@@ -8,7 +8,7 @@ Full Repository at https://github.com/AlexBlandin/DeobfuscNet
 
 ### Installation (Colab)
 
-[Open in Colab](https://colab.research.google.com/drive/1WnkB7pCg2EyWleeZI0cccyeTW6I0Oe6o). Done.
+[Open in Colab](https://colab.research.google.com/drive/1WnkB7pCg2EyWleeZI0cccyeTW6I0Oe6o). Click the "Copy to Drive" button in the tool tray at the top. Done.
 
 ### Installation (Local)
 
