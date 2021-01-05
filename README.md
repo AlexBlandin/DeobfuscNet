@@ -24,6 +24,7 @@ Good luck:
   - skimage
   - matplotlib
 - Ensure Weasyprint is installed with all requirements as per its [installation requirements](https://weasyprint.readthedocs.io/en/stable/install.html)
+- It seems viable to use fontpreview to replace Weasyprint, if it handles non-spacing marks and fallthrough etc. correctly
 
 ### Running (Colab)
 
